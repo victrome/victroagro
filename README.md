@@ -8,5 +8,5 @@ To use it:<BR>
   <li>Finnaly install the last robot using install_bot bot_agrochip.</li>
   </ul>
 <BR>  
-You will need a NodeMCU running the last version of VictroAddon, that you can download on <a href="http://victrobrain.com/addons">victrobrain.com/addons</a>
+You will need a NodeMCU running the last version of VictroAddon, that you can download on <a href="http://victrobrain.com/site/site/addons">victrobrain.com/site/site/addons</a>
 
